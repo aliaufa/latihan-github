@@ -1,5 +1,5 @@
 # Latihan github
-Repositori ini digunakan untuk latihan pengoperasian git dan github
+Repositori ini digunakan untuk latihan pengoperasian git dan github.
 
 ## How to clone repositry
 
