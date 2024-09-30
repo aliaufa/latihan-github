@@ -1,0 +1,4 @@
+pwd untuk melihat directory kerja kita
+cd untuk pindah directory
+ls untuk melihat isi directory
+mkdir untuk membuat folder
